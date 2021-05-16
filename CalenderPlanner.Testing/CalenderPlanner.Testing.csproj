@@ -19,4 +19,9 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CalenderPlanner.Domain\CalenderPlanner.Domain.csproj" />
+    <ProjectReference Include="..\CalenderPlanner.Storing\CalenderPlanner.Storing.csproj" />
+  </ItemGroup>
+
 </Project>

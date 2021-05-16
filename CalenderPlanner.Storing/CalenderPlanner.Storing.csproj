@@ -4,4 +4,12 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="npgsql.entityframeworkcore.postgresql" Version="5.0.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CalenderPlanner.Domain\CalenderPlanner.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
