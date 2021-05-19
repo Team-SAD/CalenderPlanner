@@ -52,7 +52,7 @@ jobs:
       - uses: azure/webapps-deploy@v2
         with:
           app-name: danielspizzabox
-          images: akatsuki09/pizzabox
+          images: planner123/calenderplanner
 
 name: ci-pipeline
 
