@@ -1,5 +1,6 @@
 {
   "version": 2,
+
   "dgSpecHash": "WnX85tU3pdgYHNNYICKkRXunLIR1rUc/uq6UWZsi7eCdP5g2WtwFgn1XkLhKkvwvrQ07EySbloTB3dsV5y1fqQ==",
   "success": true,
   "projectFilePath": "/Users/rauf/revature/CalenderPlanner/CalenderPlanner.API/CalenderPlanner.API.csproj",
@@ -10,6 +11,7 @@
     "/Users/rauf/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "/Users/rauf/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
     "/Users/rauf/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+
   ],
   "logs": []
 }

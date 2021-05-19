@@ -221,6 +221,16 @@
         "runtime": {
           "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {}
         }
+      },
+      "CalenderPlanner.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/CalenderPlanner.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CalenderPlanner.Domain.dll": {}
+        }
       }
     }
   },
@@ -672,10 +682,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "CalenderPlanner.Domain/1.0.0": {
+      "type": "project",
+      "path": "../CalenderPlanner.Domain/CalenderPlanner.Domain.csproj",
+      "msbuildProject": "../CalenderPlanner.Domain/CalenderPlanner.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "CalenderPlanner.Domain >= 1.0.0",
       "npgsql.entityframeworkcore.postgresql >= 5.0.6"
     ]
   },
@@ -703,7 +719,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/drayh/revature/project_two/CalenderPlanner.Domain/CalenderPlanner.Domain.csproj": {
+              "projectPath": "/home/drayh/revature/project_two/CalenderPlanner.Domain/CalenderPlanner.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

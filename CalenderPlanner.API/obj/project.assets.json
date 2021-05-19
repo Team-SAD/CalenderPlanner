@@ -193,11 +193,14 @@
     ]
   },
   "packageFolders": {
+
     "/Users/rauf/.nuget/packages/": {}
+
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+
       "projectUniqueName": "/Users/rauf/revature/CalenderPlanner/CalenderPlanner.API/CalenderPlanner.API.csproj",
       "projectName": "CalenderPlanner.API",
       "projectPath": "/Users/rauf/revature/CalenderPlanner/CalenderPlanner.API/CalenderPlanner.API.csproj",
@@ -206,6 +209,8 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/rauf/.nuget/NuGet/NuGet.Config"
+
+
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -252,7 +257,9 @@
             "privateAssets": "all"
           }
         },
+
         "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
+
       }
     }
   }
