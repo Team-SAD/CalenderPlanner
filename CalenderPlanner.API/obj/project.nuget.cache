@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "3EpEBzCQN0SdjLRT61eAwASRtKlu9L6ICEHA2xcpexKTFI9tuhXv3a2wOHtp531NrOyF6/HgNUju3ne9AbLjqQ==",
+  "success": true,
+  "projectFilePath": "/home/drayh/revature/project_two/CalenderPlanner.API/CalenderPlanner.API.csproj",
+  "expectedPackageFiles": [
+    "/home/drayh/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/drayh/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/drayh/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/home/drayh/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/home/drayh/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/home/drayh/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -15,6 +15,7 @@
   <ItemGroup>
     <ProjectReference Include="..\CalenderPlanner.Storing\CalenderPlanner.Storing.csproj" />
     <ProjectReference Include="..\CalenderPlanner.Domain\CalenderPlanner.Domain.csproj" />
+    <ProjectReference Include="..\CalenderPlanner.API\CalenderPlanner.API.csproj" />
   </ItemGroup>
 
 </Project>
