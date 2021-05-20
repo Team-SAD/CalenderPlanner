@@ -1,0 +1,12 @@
+/home/drayh/revature/project_two/CalenderPlanner.Domain/bin/Debug/net5.0/CalenderPlanner.Domain.deps.json
+/home/drayh/revature/project_two/CalenderPlanner.Domain/bin/Debug/net5.0/CalenderPlanner.Domain.dll
+/home/drayh/revature/project_two/CalenderPlanner.Domain/bin/Debug/net5.0/ref/CalenderPlanner.Domain.dll
+/home/drayh/revature/project_two/CalenderPlanner.Domain/bin/Debug/net5.0/CalenderPlanner.Domain.pdb
+/home/drayh/revature/project_two/CalenderPlanner.Domain/obj/Debug/net5.0/CalenderPlanner.Domain.csprojAssemblyReference.cache
+/home/drayh/revature/project_two/CalenderPlanner.Domain/obj/Debug/net5.0/CalenderPlanner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/drayh/revature/project_two/CalenderPlanner.Domain/obj/Debug/net5.0/CalenderPlanner.Domain.AssemblyInfoInputs.cache
+/home/drayh/revature/project_two/CalenderPlanner.Domain/obj/Debug/net5.0/CalenderPlanner.Domain.AssemblyInfo.cs
+/home/drayh/revature/project_two/CalenderPlanner.Domain/obj/Debug/net5.0/CalenderPlanner.Domain.csproj.CoreCompileInputs.cache
+/home/drayh/revature/project_two/CalenderPlanner.Domain/obj/Debug/net5.0/CalenderPlanner.Domain.dll
+/home/drayh/revature/project_two/CalenderPlanner.Domain/obj/Debug/net5.0/ref/CalenderPlanner.Domain.dll
+/home/drayh/revature/project_two/CalenderPlanner.Domain/obj/Debug/net5.0/CalenderPlanner.Domain.pdb

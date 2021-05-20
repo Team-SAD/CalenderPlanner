@@ -1,0 +1,15 @@
+/home/drayh/revature/project_two/CalenderPlanner.Storing/bin/Debug/net5.0/CalenderPlanner.Storing.deps.json
+/home/drayh/revature/project_two/CalenderPlanner.Storing/bin/Debug/net5.0/CalenderPlanner.Storing.dll
+/home/drayh/revature/project_two/CalenderPlanner.Storing/bin/Debug/net5.0/ref/CalenderPlanner.Storing.dll
+/home/drayh/revature/project_two/CalenderPlanner.Storing/bin/Debug/net5.0/CalenderPlanner.Storing.pdb
+/home/drayh/revature/project_two/CalenderPlanner.Storing/bin/Debug/net5.0/CalenderPlanner.Domain.dll
+/home/drayh/revature/project_two/CalenderPlanner.Storing/bin/Debug/net5.0/CalenderPlanner.Domain.pdb
+/home/drayh/revature/project_two/CalenderPlanner.Storing/obj/Debug/net5.0/CalenderPlanner.Storing.csprojAssemblyReference.cache
+/home/drayh/revature/project_two/CalenderPlanner.Storing/obj/Debug/net5.0/CalenderPlanner.Storing.GeneratedMSBuildEditorConfig.editorconfig
+/home/drayh/revature/project_two/CalenderPlanner.Storing/obj/Debug/net5.0/CalenderPlanner.Storing.AssemblyInfoInputs.cache
+/home/drayh/revature/project_two/CalenderPlanner.Storing/obj/Debug/net5.0/CalenderPlanner.Storing.AssemblyInfo.cs
+/home/drayh/revature/project_two/CalenderPlanner.Storing/obj/Debug/net5.0/CalenderPlanner.Storing.csproj.CoreCompileInputs.cache
+/home/drayh/revature/project_two/CalenderPlanner.Storing/obj/Debug/net5.0/CalenderPlanner.Storing.csproj.CopyComplete
+/home/drayh/revature/project_two/CalenderPlanner.Storing/obj/Debug/net5.0/CalenderPlanner.Storing.dll
+/home/drayh/revature/project_two/CalenderPlanner.Storing/obj/Debug/net5.0/ref/CalenderPlanner.Storing.dll
+/home/drayh/revature/project_two/CalenderPlanner.Storing/obj/Debug/net5.0/CalenderPlanner.Storing.pdb
