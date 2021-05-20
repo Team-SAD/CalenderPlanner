@@ -2,6 +2,8 @@ using System;
 
 namespace CalenderPlanner.API
 {
+
+
   public class WeatherForecast
   {
     public DateTime Date { get; set; }
@@ -12,4 +14,5 @@ namespace CalenderPlanner.API
 
     public string Summary { get; set; }
   }
+
 }

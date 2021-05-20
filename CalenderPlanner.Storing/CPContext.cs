@@ -7,6 +7,7 @@ namespace CalenderPlanner.Storing
   public class CPContext : DbContext
   {
     public DbSet<Customer> Customers { get; set; }
+    public DbSet<Event> Events { get; set; }
 
     public CPContext(DbContextOptions options) : base(options) { }
 
